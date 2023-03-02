@@ -1,0 +1,16 @@
+@charset "UTF-8";
+ 
+*html,body{
+    margin: 0%;
+}
+main{
+    background-color: aqua;
+
+}
+#telefone{
+    background-color: rgba(0, 0, 255, 0.527);
+
+}
+#redes-sociais{
+
+}
